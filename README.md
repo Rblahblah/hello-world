@@ -1,2 +1,5 @@
 # hello-world
-Hello World... where awesome begins..
+
+Hi Humans!
+
+This is where awesome begins..
